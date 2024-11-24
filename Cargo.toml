@@ -5,7 +5,7 @@ edition = "2021"
 description = "A Rust library providing utilities for working with Telegram Mini Apps initialization data. For more information about initialization data, refer to the official [documentation](https://docs.telegram-mini-apps.com/platform/init-data). This library is a Rust port of the original [Go implementation](https://github.com/Telegram-Mini-Apps/init-data-golang)."
 license = "MIT"
 keywords = ["telegram", "tma", "telegram-mini-apps", "init-data"]
-categories = ["tma", 'telegram']
+categories = ["web-programming"]
 readme = "readme.md"
 
 
