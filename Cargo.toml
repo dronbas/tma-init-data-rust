@@ -1,6 +1,6 @@
 [package]
 name = "init-data-rust"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "This library is a Rust port of init-data-golang"
 license = "MIT"
